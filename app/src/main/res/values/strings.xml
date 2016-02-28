@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Session2Assignment1</string>
+    <string name="new_app_name">Changed App Name</string>
+    <string name="txt_text"><![CDATA[This is the program for change the launcher icon & the app name.]]></string>
+</resources>
